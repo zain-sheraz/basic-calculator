@@ -1,3 +1,3 @@
-Basic calculator
-this is my first git repo
+This is my first git repo
+
 author_ zain sheraz
